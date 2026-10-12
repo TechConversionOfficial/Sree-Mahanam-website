@@ -1,11 +1,20 @@
-
 # Sree Mahanam website: electrical distribution and project supply made easier to explore
 
 **Sree Mahanam Sales & Construction is an electrical distribution and B2B project-supply business whose [website](https://sreemahanam.com/) was designed and developed by [Tech Conversion](https://techconversion.tech/). The site presents ABB low-voltage electrical products, V-Marc wires and cables, and supply support for contractors, developers, panel builders and infrastructure projects. The project brings product families, sector applications and quotation enquiries into one structured corporate website.**
 
-![Sree Mahanam homepage on desktop and mobile](images/sree-mahanam-responsive-homepage-showcase.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/sree-mahanam-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/sree-mahanam-website-mockup.webp" alt="Sree Mahanam website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Saved Sree Mahanam website presentation with laptop and mobile screens. This is original project showcase artwork, not an independently dated live-browser screenshot.*
+<p align="center">
+  <a href="https://sreemahanam.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/sree-mahanam-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -17,8 +26,8 @@
 | **Design and development** | [Tech Conversion](https://techconversion.tech/) — credited in the live website footer |
 | **Product focus** | ABB low-voltage products; V-Marc wires and cables |
 | **Industries served** | Residential/commercial construction, industrial and EPC projects, infrastructure, contractors and panel builders |
+| **GitHub repository** | [TechConversionOfficial/Sree-Mahanam-website](https://github.com/TechConversionOfficial/Sree-Mahanam-website) |
 | **Platform** | WordPress-related site files and project components are visible; specific live plugin integrations and hosting were not independently audited |
-| **Agency portfolio** | [Tech Conversion portfolio](https://techconversion.tech/portfolio) |
 
 ## About the business
 
@@ -29,76 +38,66 @@ Sree Mahanam Sales & Construction supplies electrical products used in building,
 - **Project and bulk supply:** procurement enquiries from contractors, builders, electrical panel makers and EPC organisations, including the ability to share product requirements or bills of quantities (BOQs).
 - **Technical supply support:** guidance around product selection, availability and project requirements as described by the business.
 
-ABB's official Indian channel-partner directory independently lists **Sree Mahanam Sales & Constructions** in Siliguri. The company's website claims **30+ years of experience**, authorised ABB-dealer status and broad project-delivery experience; treat project counts and service metrics as client-published claims rather than independent performance measurements.
+ABB's official Indian channel-partner directory independently lists **Sree Mahanam Sales & Constructions** in Siliguri. The company's website claims **30+ years of experience**, authorised ABB-dealer status and broad project-delivery experience; project counts and service metrics should be treated as client-published claims rather than independent performance measurements.
 
 ## The problem
 
 Industrial electrical procurement is a different journey from normal online retail. A contractor may know the required electrical protection category but need to verify an ABB model and availability. A panel builder may be planning a complete assembly, while an EPC buyer may need quantities from a BOQ across multiple product families. A project manager may need to understand supply capabilities before sharing specifications.
 
-For a distributor with several product categories and buyer segments, the website must answer three questions quickly: **Which products do you supply? Which project types do you support? How do we request the right quotation?** Without that structure, a visitor is left browsing disconnected product names or trying to explain a technical purchase through a generic contact form.
+For a distributor with several product categories and buyer segments, the website must answer three questions quickly: **Which products do you supply? Which project types do you support? How do we request the right quotation?**
 
-The saved project imagery shows an emphasis on a clearer product-led homepage, named brands, project-use cases and visible quotation actions. This describes the design need and the documented website direction, not an independently audited problem with an earlier production site.
+The website therefore needs a clear product structure, application-led navigation and a practical enquiry path for project buyers rather than a generic consumer-store experience.
 
 ## How the website presents the business
 
-The points below are supported by the current site content and saved Tech Conversion design components. They do not imply that every concept or component has been formally tested in production.
+The following points reflect the current site structure and the supplied Tech Conversion project materials. They do not imply that every component or integration has been independently tested.
 
-1. **Make the electrical-supply proposition visible immediately.** Saved homepage compositions use the central message of reliable low-voltage supply for infrastructure, contractors and developers rather than a generic company headline.
+1. **Make the electrical-supply proposition visible immediately.** The homepage presents low-voltage supply for infrastructure, contractors and developers rather than relying on a generic company headline.
 2. **Give ABB and V-Marc their own routes.** The public navigation and About content separate ABB power protection, control and panel components from V-Marc wiring and cable products.
-3. **Explain the applications, not only the brands.** The [Industries We Serve](https://sreemahanam.com/industries/) page organises residential/commercial developments, government infrastructure, industrial/EPC projects and contractors/panel builders.
-4. **Support requirements-based enquiries.** The site's quote interface requests company, email, phone, product requirement, project type, approximate quantity and additional information — details relevant to a real purchasing conversation.
-5. **Create a dedicated bulk-supply path.** Wholesale enquiry and request-a-quote actions make sense for contractors and project buyers who are not shopping for one consumer item.
-6. **Use a consistent technical visual style.** Saved website compositions combine deep navy, blue, white and red accents with electrical product imagery and disciplined service headings.
-7. **Offer a structured About page.** The [About Us](https://sreemahanam.com/about-us/) page introduces the company's history, supply relationships, product categories and the sectors it serves.
-8. **Develop secondary navigation and support content.** Multiple saved footer versions arrange links by company, products, industry, wholesale enquiry and contact, with ABB and V-Marc brand blocks.
-9. **Consider desktop and mobile presentation.** The project showcase includes laptop and phone mockups. These document presentation intent; they are not equivalent to an audited responsive or accessibility test.
-10. **Keep contact and company facts under review.** The site displays inconsistent office addresses and phone/email information across some page sections. These details should be reconciled before using them in advertisements, structured data or sales material.
+3. **Explain applications, not only brands.** The [Industries We Serve](https://sreemahanam.com/industries/) page organises residential/commercial developments, government infrastructure, industrial/EPC projects and contractors/panel builders.
+4. **Support requirements-based enquiries.** Quote forms request company, email, phone, product requirement, project type, approximate quantity and additional information — details relevant to a real purchasing conversation.
+5. **Create a dedicated bulk-supply path.** Wholesale enquiry and request-a-quote actions support contractors and project buyers who are not shopping for one consumer item.
+6. **Use a consistent technical visual style.** Deep navy, blue, white and red accents are combined with electrical product imagery and disciplined service headings.
+7. **Offer a structured About page.** The [About Us](https://sreemahanam.com/about-us/) page introduces company history, supply relationships, product categories and sectors served.
+8. **Develop secondary navigation and support content.** Product, industry, wholesale-enquiry and contact routes are organised to help procurement-focused visitors move efficiently.
+9. **Consider desktop and mobile presentation.** The portfolio mockup and supplied homepage visual document responsive presentation intent; they are not equivalent to an independent device or accessibility audit.
+10. **Keep contact and company facts under review.** Inconsistent office addresses and contact details across website sections should be reconciled before use in structured data, advertising or sales material.
 
-## Project visuals and design direction
+## Website and project images
 
-These eight files are **original saved Sree Mahanam project assets** converted to WebP for a GitHub-friendly case study. They include website concepts, device mockups, footer iterations and one illustrative interior scene. Some visible contact numbers, addresses, reviews or statistics may be draft content, so they should not be used as live verified facts.
+### Official website mockup
 
-### Homepage and responsive presentation
+The following Tech Conversion portfolio mockup presents Sree Mahanam as a professional B2B electrical-distribution and project-supply website.
 
-![Sree Mahanam responsive electrical supply website mockup](images/sree-mahanam-responsive-homepage-showcase.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/sree-mahanam-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/sree-mahanam-website-mockup.webp" alt="Sree Mahanam responsive electrical supply website portfolio mockup" width="100%" />
+  </a>
+</p>
 
-The laptop-and-mobile presentation shows how the product-led hero and key website sections were arranged for different screen sizes.
+*Click the image to open the full-resolution mockup.*
 
-### Industrial supply homepage presentation
+### Full-length homepage screenshot
 
-![Sree Mahanam industrial website desktop and phone showcase](images/sree-mahanam-industrial-website-showcase.webp)
+The following image is the complete Sree Mahanam homepage capture supplied through Tech Conversion's project media.
 
-This saved portfolio composition uses industrial infrastructure and electrical products to provide immediate context for the company's procurement-led audience.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/sree-mahanam-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/sree-mahanam-new-website-home-page.webp" alt="Sree Mahanam complete electrical distribution website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-### Alternative industrial hero concept
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
-![Sree Mahanam corporate industrial website design concept](images/sree-mahanam-homepage-industrial-concept.webp)
+### Image provenance
 
-The alternative composition retains the electrical supply theme, brand sections and consultation hierarchy. It is a design concept, not evidence of a separate published website version.
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` project gallery and the `IMAGE-SOURCES.md` dependency.
 
-### About Us page and company narrative
+These visuals document the website presentation, but they are **not evidence of independently measured traffic growth, quotation growth, sales, project wins, conversion-rate uplift, Core Web Vitals improvement, dealer-authorisation scope or product-performance claims**.
 
-![Sree Mahanam About Us page design and industry sections](images/sree-mahanam-about-us-page-design.webp)
-
-This saved long-page layout explores credibility, industry coverage, ABB and V-Marc categories, company values and a closing enquiry section.
-
-### Footer and brand-navigation explorations
-
-| Main footer layout | Product-brand footer layout |
-|---|---|
-| ![Sree Mahanam footer site navigation and contact concept](images/sree-mahanam-footer-layout.webp) | ![Sree Mahanam ABB and V-Marc footer branding](images/sree-mahanam-footer-brands-design.webp) |
-
-![Sree Mahanam alternative footer information architecture](images/sree-mahanam-footer-structure-concept.webp)
-
-The footer drafts show alternative ways to organise product groups, company information, brand relationships and quote actions. Draft address, telephone and email text must be checked against authorised business details before reuse.
-
-### Branded environment illustration
-
-![Sree Mahanam brand reception environmental concept](images/sree-mahanam-branded-reception-illustration.webp)
-
-This image is **illustrative branded reception artwork**, not authenticated photography of the company's physical office.
-
-See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for every original filename, image classification and usage limitation.
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key visitor journeys
 
@@ -108,7 +107,7 @@ See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for every original filename, image clas
 | Learn about its background and product partnerships | [About Us](https://sreemahanam.com/about-us/) |
 | Review low-voltage electrical equipment | [ABB Low Voltage Products](https://sreemahanam.com/products/abb-low-voltage-products/) |
 | Explore house wiring and power cable solutions | [V-Marc Wires & Cables](https://sreemahanam.com/v-marc-wires-cables/) *(linked in site navigation; direct fetch not confirmed)* |
-| Browse the industries and project environments served | [Industries We Serve](https://sreemahanam.com/industries/) |
+| Browse industries and project environments served | [Industries We Serve](https://sreemahanam.com/industries/) |
 | Discuss an EPC, panel-builder or wholesale requirement | [Wholesale Enquiry](https://sreemahanam.com/wholesale-enquiry/) *(linked in site navigation; direct fetch not confirmed)* |
 | Contact the company or request a product quotation | [Contact Us](https://sreemahanam.com/contact-us/) |
 | See the agency's wider website portfolio | [Tech Conversion Portfolio](https://techconversion.tech/portfolio) |
@@ -124,19 +123,21 @@ These are **appropriate review references**, not claims that a certification or 
 - **Electrical product documentation:** confirm exact ABB and V-Marc models, ratings, applications, standards and datasheets directly against manufacturer information.
 - **Brand authorisation:** use the company's authorised ABB-dealer status only within the verified scope and current term of the applicable authorisation; the ABB channel directory provides external evidence of a relationship.
 - **Commercial enquiries and privacy:** review secure handling of BOQs, contact information and uploaded technical requirements.
-- **Contact-data consistency:** reconcile the site body's Hyderabad contact location with the Siliguri address in its footer and in ABB's partner directory, along with differing phone/email entries, before issuing final business listings or structured data.
+- **Contact-data consistency:** reconcile the site's Hyderabad contact location with the Siliguri address in its footer and in ABB's partner directory, along with differing phone/email entries, before issuing final business listings or structured data.
 
 ## Before and after
 
-The saved files provide several professional **website design presentations** and different footer versions, but no verified, dated pair of old and new production browser captures. For that reason, this case study documents the website's product-led design direction without presenting a numerical or historical before-and-after claim.
+A full-page screenshot of the delivered Sree Mahanam website is available and included above. However, **no authenticated historical BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not manufacture a redesign comparison.
 
-A formal comparison can be added when original older and newer browser screenshots, their dates and their deployment status are confirmed.
+Earlier saved project materials contain multiple website concepts and footer variations, but those should be treated as design explorations rather than a verified historical sequence.
+
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
 **Publicly supported:** Sree Mahanam is showcased by Tech Conversion as an electrical and industrial B2B website. The live website credits Tech Conversion for design and development and contains product-family navigation, an About page, industry descriptions and product/wholesale enquiry routes. ABB's official Indian channel-partner listing independently names the business.
 
-**Client-published qualitative feedback:** Tech Conversion's website attributes a positive testimonial about the new website representing the business to **Nilaksha of Sree Mahanam Sales & Construction**. This can be presented as attributed client feedback, not as measured technical performance.
+**Client-published qualitative feedback:** Tech Conversion's website attributes positive feedback about the new website representing the business to **Nilaksha of Sree Mahanam Sales & Construction**. This should be treated as attributed client feedback, not measured technical performance.
 
 **Not independently measured:** organic traffic, enquiry growth, quotation submissions, sales, project wins, Core Web Vitals improvements or conversion-rate uplift. Published project counts and service metrics are not substituted for website-development analytics.
 
@@ -146,6 +147,15 @@ A formal comparison can be added when original older and newer browser screensho
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public design and portfolio record**, not a copy of the production codebase. It excludes project BOQs, procurement pricing, customer information, administrator credentials, private business records and confidential supplier agreements. Sree Mahanam, ABB and V-Marc logos, product imagery and intellectual property remain with their respective rights holders.
+## Repository scope and image credits
+
+This repository is a **public design and portfolio record**, not a copy of the production codebase. It excludes project BOQs, procurement pricing, customer information, administrator credentials, private business records and confidential supplier agreements.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. Sree Mahanam, ABB and V-Marc logos, product imagery and intellectual property remain with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
